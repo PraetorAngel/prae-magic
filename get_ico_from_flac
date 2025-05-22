@@ -1,0 +1,1 @@
+-an -vcodec copy album_art.jpg && ffmpeg -i album_art.jpg -vf scale=256:256 folder.png && ffmpeg -i folder.png folder.ico && del album_art.jpg folder.png

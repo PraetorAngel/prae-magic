@@ -1,0 +1,1 @@
+ffmpeg -i myfile.mp4 -ss 00:00:03 -vframes 1 -vf "scale=256:256" folder.png && ffmpeg -i folder.png folder.ico
