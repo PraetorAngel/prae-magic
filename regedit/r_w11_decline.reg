@@ -1,9 +1,0 @@
-Windows Registry Editor Version 5.00
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\]
-"TargetReleaseVersion"=dword:00000001
-"TargetReleaseVersion"="21H1"
-"ProductVersion"="Windows 10"
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\WindowsUpdate\OSUpgrade\]
-"AllowOSUpgrade"=dword:00000000
